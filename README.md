@@ -389,6 +389,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 
+- **[Polyrank](https://polyrank.app/)**: Scores 3.3M Polymarket wallets on forecasting skill (calibration, edge over the price paid, risk-adjusted return) instead of P&L, with a free wallet lookup and no account needed.
+  Paid AI Lab backtests and paper-trades copy strategies (simulated; nothing places orders). Read-only; REST API and MCP server.
+  - **Best for:** checking whether a wallet's record reflects forecasting skill or luck.
+  - **Team:** DefiScout LLC (per polyrank.app/tos).
+  - **Pricing:** free lookup and top-100 board; paid from $45/month ([pricing](https://polyrank.app/pricing)).
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
+
 [↑ Back to top](#top)
 
 ---
