@@ -304,6 +304,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Nov 2026 · **Reviewed:** Nov 2026
 
+- **[HalfPoint](https://halfpoint.tech/prediction-markets)**: Sports data API with a de-vigged, market-implied consensus probability per outcome, and each game's Kalshi market tickers and Polymarket CLOB token ids, to compare a venue's price with the consensus.
+  The Risk plan adds a bet-stop for market makers, allowing to widen or pull quotes in the seconds around price-moving events (e.g., scores). REST, SSE and an MCP server ([quickstart](https://halfpoint.tech/p/quickstart-nba-98bb642aefb4)).
+  - **Best for:** checking a Kalshi or Polymarket sports price against a de-vigged market consensus for the same game.
+  - **Team:** HalfPoint.
+  - **Pricing:** free delayed sample, no key; from $49/mo, 7-day trial with card ([pricing](https://halfpoint.tech/pricing)); x402 per request in USDC.
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
+
 [↑ Back to top](#top)
 
 ---
