@@ -652,6 +652,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 
+- **[Operator Lab Diagnostics](https://github.com/Tradelord223/operator-lab-diagnostics)**: Zero-dependency Python CLI auditing Kalshi V2 books for quote dust, 4dp quadratic fees, MECNET Dutch books, and fail-closed METAR locks.
+  Strictly read-only with no API secrets or order placement; also inspects Solana PumpSwap v2 pools. Requires Python 3.
+  - **Best for:** separating real 1-lot Kalshi liquidity from quote-dust mirages and checking fee-adjusted event sums.
+  - **Team:** not publicly listed (open-source repo under Tradelord223).
+  - **Pricing:** free MIT CLI; custom sprints ([escrow](https://wurk.fun/store/49f53566-1ff4-47ad-aac9-d999fa85d6f0)).
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
+
 [↑ Back to top](#top)
 
 ---
