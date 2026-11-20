@@ -160,6 +160,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 
+- **[OpenThomas](https://github.com/PredictionMarketTrader/openthomas)**: Open-source autonomous agent that trades weather markets on Kalshi and Polymarket: seven-model forecast consensus, per-station bias learned from leak-free hindcasts, fractional-Kelly sizing under hard risk limits.
+  Paper trading by default; live mode needs explicit opt-in. MIT-licensed, installable via PyPI.
+  - **Best for:** running a disciplined, risk-capped weather-market strategy on your own machine and paper-trading it first.
+  - **Team:** not publicly listed.
+  - **Pricing:** Free (open source, MIT); paper trading needs no exchange keys.
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
+
 [↑ Back to top](#top)
 
 ---
