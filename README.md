@@ -17,7 +17,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 | Tools | Categories | Contributors | GitHub views (Sep-Oct) |
 |---|---|---|---|
-| 76 (+9 since last update) | 8 | 37 (+8 since last update) | 1,059 |
+| 77 (+10 since last update) | 8 | 37 (+8 since last update) | 1,059 |
 
 *Updated on the 1st and 15th of every month.*
 
@@ -26,7 +26,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 | Category | What it covers | Tools |
 |---|---|---|
 | [🌐 Cross-Platform Odds Aggregators](#cross-platform-odds-aggregators) | compare odds and volume across platforms at once. | 7 |
-| [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 7 |
+| [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 8 |
 | [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 12 |
 | [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 4 |
 | [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 16 |
@@ -119,6 +119,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** free tier, Premium $30/mo.
   - **Phase:** live.
   - **Added:** Aug 2026 · **Reviewed:** Aug 2026
+
+- **[PolyTrackers](https://polytrackers.com/)**: Copy [graded Polymarket traders](https://polytrackers.com/polymarket-trader-grade) or test trades with a $10,000 paper wallet. Agents can [compare current sportsbook consensus](https://polytrackers.com/docs/api#sportsbook-gap-scanner) with the Polymarket price for their order size after fees on supported sports markets.
+  Live orders require wallet funding and authorization; encrypted trading credentials are stored and orders signed on the server.
+  - **Best for:** checking a trader’s historical entries with a [copy backtest](https://polytrackers.com/polymarket-trader-grade) that includes fees and slippage.
+  - **Team:** [PolyTrackers LLC](https://polytrackers.com/terms).
+  - **Pricing:** Free; Pro $19/mo; Elite $49/mo; real taker fee 0.25%, maker 0%; venue fees separate.
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
 
 - **[Kreo](https://enter.kreo.app/)**: Telegram- and web-based non-custodial copy-trading tool for Polymarket and Kalshi wallets.
   Sub-3-second execution and insider-flow alerts.
