@@ -515,6 +515,13 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## 🧠 Research & Market Discovery
 
+- **[Pulse](https://pulse-membership-sandbox.onrender.com/demo)**: Read-only dashboard for Polymarket BTC and ETH Up/Down rounds with live odds, a countdown, Doc’s directional read, and individual model scores.
+  - **Best for:** following short Polymarket rounds and comparing market odds with experimental signals.
+  - **Team:** not publicly listed.
+  - **Pricing:** two free 5-minute BTC rounds with no account required; [paid membership](https://pulse-membership-sandbox.onrender.com/pricing) for continued access.
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
+
 - **[DegenHedge Kalshi Fee and Payout Calculator](https://degenhedge.com/tools/kalshi-fee-calculator/)**: Free browser calculator for Kalshi BTC 15-minute contracts that estimates taker fees, total cost, winning payout, net profit, and break-even probability. Fee estimates depend on the selected multiplier, account balance precision, and fill assumptions; no account or API key is required.
   - **Best for:** checking a BTC 15-minute contract's cost and break-even probability with explicit fee assumptions.
   - **Team:** not publicly listed.
