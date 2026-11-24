@@ -96,6 +96,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Nov 2026 · **Reviewed:** Nov 2026
 
+- **[Can I Bet In?](https://canibetin.com)**: Free US state-by-state map of where Kalshi, Polymarket, PredictIt, sportsbooks and online casinos are legal (sourced and dated), plus live Kalshi vs Polymarket vs PredictIt price comparison.
+  Prices refresh every 60 seconds. No account required.
+  - **Best for:** US traders checking where they can trade and which venue is cheaper.
+  - **Team:** Felix Trevelyan (solo, UK).
+  - **Pricing:** free.
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
+
 [↑ Back to top](#top)
 
 ---
