@@ -26,7 +26,7 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 | Category | What it covers | Tools |
 |---|---|---|
 | [🌐 Cross-Platform Odds Aggregators](#cross-platform-odds-aggregators) | compare odds and volume across platforms at once. | 7 |
-| [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 7 |
+| [🤖 Trade Copying & Automation](#trade-copying--automation) | mirror or auto-copy other traders' positions. | 8 |
 | [⚡ Trading Terminals & Execution](#trading-terminals--execution) | place and manage trades across venues from one interface. | 12 |
 | [📡 Signal & Fair-Value](#signal--fair-value) | spot mispriced markets and model-vs-market gaps. | 4 |
 | [🔍 Wallet & Trader Analytics](#wallet--trader-analytics) | research other traders' wallets and track records. | 16 |
@@ -159,6 +159,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Pricing:** free tier (paper and live, limited daily runs); [Pro $20/mo](https://windmill.markets/pricing).
   - **Phase:** live.
   - **Added:** Oct 2026 · **Reviewed:** Oct 2026
+
+- **[EVPLUS](https://www.evplus.ai/)**: Hosted Polymarket trading bot that runs five strategies 24/7 from your own Polymarket wallet, with a trade-only key that can place orders but cannot withdraw.
+  Covers crypto Up or Down and price-target markets, plus weather, sports and X post markets (off by default). Each strategy can lose money; the [Track Record](https://www.evplus.ai/track-record) shows the last 30 days after fees, losing days included.
+  - **Best for:** running a Polymarket bot without a server, after checking each strategy's public 30-day result.
+  - **Team:** not publicly listed.
+  - **Pricing:** $3.30 per bot per day, billed by the second only while it runs; stop anytime.
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
 
 [↑ Back to top](#top)
 
