@@ -168,6 +168,14 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 ## ⚡ Trading Terminals & Execution
 
+- **[Perpex](https://perpex.co/)**: Self-custodial Hyperliquid app for iOS, Android and web that trades HIP-4 outcome markets next to perps, spot and HIP-3 stock and commodity markets.
+  Orders go through an agent key that can trade but cannot withdraw. Perps carry leverage risk.
+  - **Best for:** Hyperliquid traders who want HIP-4 outcome markets on mobile alongside their perp positions.
+  - **Team:** not publicly listed.
+  - **Pricing:** builder fee of up to 0.10%; see [fees](https://perpex.co/fees).
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
+
 - **[EVDESK](https://evdesk.ai/)**: Trading desk for Kalshi: every open market, the full order book, the fee on both routes (take now or rest a limit order), Kelly sizing, and order placement on Kalshi from your own account.
   Also runs free Kalshi tools: a [fee calculator](https://evdesk.ai/tools/kalshi-fee-calculator), an [odds converter](https://evdesk.ai/tools/kalshi-odds-converter) that shows the after-fee break-even, and a [Kelly and EV calculator](https://evdesk.ai/tools/kelly-ev-calculator).
   - **Best for:** Kalshi traders who want book depth, the exact fee and position sizing on one screen before they place an order.
