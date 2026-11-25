@@ -658,6 +658,13 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
 
 <a name="leverage-lending--yield"></a>
 
+- **[FlowFeed](https://flowfeed.cc)**: Hosted MCP server that feeds AI assistants (Claude, ChatGPT, Grok, Cursor) real-time macro, forex and crypto news, an economic calendar with forecast, previous and actual values, and central bank releases.
+  - **Best for:** tracking the macro releases and headlines that move economics and crypto markets on Kalshi and Polymarket from inside an AI assistant.
+  - **Team:** FlowFeed (independent builder).
+  - **Pricing:** $9/month or $99/year; no free tier.
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
+
 ## 💸 Leverage, Lending & Yield
 
 - **[Dimes Multiply](https://dimes.fi)**: Embedded leverage layer that front-ends integrate to offer 2x-10x on Polymarket positions; not a venue you trade on yourself.
