@@ -652,6 +652,13 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** live.
   - **Added:** Oct 2026 · **Reviewed:** Oct 2026
 
+- **[Tereno](https://www.tereno.xyz/docs/mcp)**: Pre-trade verification API and hosted MCP server (`https://www.tereno.xyz/api/mcp`) that audits Kalshi CFTC contract rules (`rules_primary`, early-close clauses, designated settlement sources), Polymarket UMA Optimistic Oracle / 50-50 fallback risk, and cross-venue Kalshi-vs-Polymarket rule divergence (`prediction.evidence`). Read-only with deterministic receipts and shared cross-agent caching; does not execute trades or estimate probabilities.
+  - **Best for:** checking settlement rules, early-close clauses, and cross-venue rule divergence between Kalshi and Polymarket before trading.
+  - **Team:** independent, built by Robson Martello ([tereno.xyz](https://www.tereno.xyz)).
+  - **Pricing:** 1 free daily check per IP via MCP; paid calls $0.05 cold / $0.01 cached via x402 USDC on Base or prepaid Base USDC API keys (20% credit back to the first verifier on cross-agent reuse).
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
+
 [↑ Back to top](#top)
 
 ---
