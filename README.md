@@ -507,6 +507,21 @@ If this list saves you some digging, a ⭐ on the repo helps more people find it
   - **Phase:** public beta.
   - **Added:** Nov 2026 · **Reviewed:** Nov 2026
 
+- **[PrognosX](https://prognosx.com/en/)**: Sports-only Polymarket whale tracker: large pre-match bets, the wallet's record, and a public result for every signal, losses included.
+  Free public pages; Pro adds the whale's side before the match and Telegram alerts. Not a bookmaker, 18+, no profit promises.
+  - **Best for:** seeing which sports bettors on Polymarket move big money before kick-off, with a per-wallet record instead of bet size alone.
+  - **Team:** not publicly listed
+  - **Pricing:** free tier; Pro $9/month or $59/year, Ultra $29/month or $229/year; no auto-renewal, 7-day refund on the first payment.
+  - **Phase:** live.
+  - **Added:** Nov 2026 · **Reviewed:** Nov 2026
+
+
+
+
+
+
+
+
 [↑ Back to top](#top)
 
 ---
